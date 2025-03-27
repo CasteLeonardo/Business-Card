@@ -17,7 +17,7 @@ A minimalist and modern digital business card built with HTML and CSS.
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/yourusername/business-card.git
-2. **Open the index.html file in your browser**
+2. **Open the BusinessCard.html file in your browser**
 
 ## 🎨 Customization   
 
